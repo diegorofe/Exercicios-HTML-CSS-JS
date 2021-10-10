@@ -6,4 +6,6 @@ p{
 }
 h1{
     font-family: 'Geostar', cursive;
+    margin: 10px 10px auto;
+    width: 65%;
 }
