@@ -43,6 +43,6 @@ function slowDown(velocity){
 
 }
 
-function printSpaceShip(velocity){
-    alert("A nave " + "??  está a uma velocidade atual de " + velocity)
+function printSpaceShip( velocity){
+    alert("A nave " + spaceShip + "  está a uma velocidade atual de " + velocity + "Km/s")
 }
