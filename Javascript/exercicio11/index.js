@@ -38,7 +38,7 @@ function speedStop(){
 function showMenu(){
     let chosenOption 
     do{
-    chosenOption = prompt("Selecione uma opção para o que você deseja que a nave faça:\n1- Acelerar a nave\n2- Parar a nave\n3- Sair")
+    chosenOption = prompt("Selecione uma opção para o que você deseja que a nave faça:\n1- Acelerar a nave\n2- Parar a nave")
     
     switch(chosenOption){
         case "1":
