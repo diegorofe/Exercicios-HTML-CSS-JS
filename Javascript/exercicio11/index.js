@@ -47,8 +47,6 @@ function showMenu(){
         case "2":
             speedStop()
             break
-        case "3":
-            break
         default:
             alert("Opção inválida!")
     }
