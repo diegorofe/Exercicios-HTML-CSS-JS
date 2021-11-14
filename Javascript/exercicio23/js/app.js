@@ -1,5 +1,5 @@
 
-// <option disabled selected data-default></option>
+
 class App {
     
 addPropety() {
