@@ -1,0 +1,7 @@
+Javascript/standard_webApp copy/.gitignore
+Javascript/standard_webApp copy/babel.config.js
+Javascript/standard_webApp copy/package-lock.json
+Javascript/standard_webApp copy/package.json
+Javascript/standard_webApp copy/webpack.config.js
+Javascript/standard_webApp copy/dist/index.html
+Javascript/standard_webApp copy/src/index.js
